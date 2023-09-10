@@ -1,10 +1,14 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        //sorting generic
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        
-        return s==t;
+        //hashing
+        if(s.size()!=t.size())  return false;
+        int freq[26]={0};
+        for(char ch : s)    {freq[ch-'a']++;}
+        for(char ch : t){
+            if(freq[ch-'a'])    {freq[ch-'a']--;}
+            else {return false;}
+        }
+        return true;
     }
 };
