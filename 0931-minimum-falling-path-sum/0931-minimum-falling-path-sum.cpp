@@ -11,13 +11,10 @@ public:
         if(row==mat.size()){return 0;}
         if(dp[row][col]!=INT_MAX){return dp[row][col];}
         
-        int dir[3] = {-1,0,1};
-        for(int i=0 ; i<3 ; i++){
-            int c = col+dir[i];
-            if(c<mat.size() && c>=0){
-                dp[row][col] = min(dp[row][col],mat[row][col]+memo(row+1,c,mat,dp));
-            }
-        }
-        return dp[row][col];
+        int res=INT_MAX;
+        if(col-1>=0){res=min(res,mat[row][col]+memo(row+1,col-1,mat,dp));}
+        if(col  >=0){res=min(res,mat[row][col]+memo(row+1,col ,mat,dp));}
+        if(col+1<mat.size()){res=min(res,mat[row][col]+memo(row+1,col+1,mat,dp));}
+        return dp[row][col]=res;
     }
 };
