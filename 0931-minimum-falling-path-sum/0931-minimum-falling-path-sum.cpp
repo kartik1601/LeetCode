@@ -1,20 +1,21 @@
 class Solution {
 public:
-    int minFallingPathSum(vector<vector<int>>& matrix) {
-        int n = matrix.size();
-        vector<vector<int>> dp(n,vector<int>(n,INT_MAX));
+    int minFallingPathSum(vector<vector<int>>& mat) {
+        int n = mat.size();
+        vector<vector<int>> dp(n+1,vector<int>(n,INT_MAX));
+        for(int i=0 ; i<n ; i++){dp[n][i]=0;}
         int ans=INT_MAX;
-        for(int i=0 ; i<n; i++){ans = min(ans,memo(0,i,matrix,dp));}
-        return ans;
-    }
-    int memo(int row, int col , vector<vector<int>>&mat, vector<vector<int>>&dp){
-        if(row==mat.size()){return 0;}
-        if(dp[row][col]!=INT_MAX){return dp[row][col];}
+        for(int r=n-1 ; r>=0; r--){
+            for(int c=0 ; c<n ; c++){
+                int res=INT_MAX;
+                if(c-1>=0){res=min(res,dp[r+1][c-1]);}
+                if(c  >=0){res=min(res,dp[r+1][c]);}
+                if(c+1< n){res=min(res,dp[r+1][c+1]);}
+                dp[r][c] = mat[r][c] + res;
+                if(!r){ans = min(ans,dp[r][c]);}
+            }
+        }
         
-        int res=INT_MAX;
-        if(col-1>=0){res=min(res,mat[row][col]+memo(row+1,col-1,mat,dp));}
-        if(col  >=0){res=min(res,mat[row][col]+memo(row+1,col ,mat,dp));}
-        if(col+1<mat.size()){res=min(res,mat[row][col]+memo(row+1,col+1,mat,dp));}
-        return dp[row][col]=res;
+        return ans;
     }
 };
