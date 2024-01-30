@@ -6,20 +6,18 @@ public:
             if(str=="+" || str=="-" || str=="/" || str=="*"){
                 int S=s.top(); s.pop();
                 int F=s.top(); s.pop();
-                s.push(calc(F,S,str));
-          
+                string op=str;
+                if(op=="+"){
+                    s.push(F+S);
+                } else if(op=="-") {
+                    s.push(F-S);
+                } else if(op=="*") {
+                    s.push(F*S);
+                } else {
+                    s.push(F/S);
+                }
             } else {s.push(stoi(str));}
         }
         return s.top();
-    }
-    int calc(int x, int y, string op){
-        if(op=="+"){
-            return x+y;;
-        } else if(op=="-") {
-            return x-y;
-        } else if(op=="*") {
-            return x*y;
-        }
-        return x/y;
     }
 };
