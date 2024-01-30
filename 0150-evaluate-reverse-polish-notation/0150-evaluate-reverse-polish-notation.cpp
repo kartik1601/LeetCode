@@ -6,12 +6,11 @@ public:
             if(str=="+" || str=="-" || str=="/" || str=="*"){
                 int S=s.top(); s.pop();
                 int F=s.top(); s.pop();
-                string op=str;
-                if(op=="+"){
+                if(str=="+"){
                     s.push(F+S);
-                } else if(op=="-") {
+                } else if(str=="-") {
                     s.push(F-S);
-                } else if(op=="*") {
+                } else if(str=="*") {
                     s.push(F*S);
                 } else {
                     s.push(F/S);
