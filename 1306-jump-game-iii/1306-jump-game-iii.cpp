@@ -1,21 +1,26 @@
 class Solution {
 public:
-    bool canReach(vector<int>& arr, int start) {
+    bool canReach(vector<int>& nums, int start) {
         set<int> vis;
-        return memo(start,arr,vis);
-    }
-    bool memo(int idx,vector<int>&nums,set<int>&vis){
-        if(nums[idx]==0){return true;}
+        queue<int> q;
+        q.push(start);
+        vis.insert(start);
         
-        vis.insert(idx);
-        bool w1=false, w2=false;
-        if(idx-nums[idx]>=0 && vis.find(idx-nums[idx])==vis.end()){
-            w1=memo(idx-nums[idx],nums,vis);
-        }
-        if(idx+nums[idx]<nums.size() && vis.find(idx+nums[idx])==vis.end()){
-            w2=memo(idx+nums[idx],nums,vis);
+        while(!q.empty()){
+            int sz=q.size();
+            while(sz--){
+                int idx=q.front(); q.pop();
+                if(nums[idx]==0){return true;}
+                int x=idx,y=nums[idx];
+                if(x-y>=0 && vis.find(x-y)==vis.end()){
+                    q.push(x-y); vis.insert(x-y);
+                }
+                if(x+y<nums.size() && vis.find(x+y)==vis.end()){
+                    q.push(x+y); vis.insert(x+y);
+                }
+            }
         }
         
-        return w1 || w2;
+        return false;
     }
 };
