@@ -2,20 +2,17 @@ class Solution {
 public:
     bool canJump(vector<int>& nums) {
         int n=nums.size();
-        vector<int> dp(n,-1);
+        vector<int> dp(n,0);
+        dp[n-1]=1;
         
-        return memo(0,nums,dp);
-    }
-    int memo(int idx,vector<int>&nums,vector<int>&dp){
-        if(idx==nums.size()-1){return 1;}
-        if(nums[idx]==0){return dp[idx]=0;}
-        if(dp[idx]!=-1){return dp[idx];}
-        
-        for(int jump=nums[idx]; jump>0; jump--){
-            if(idx+jump>nums.size()-1){continue;}
-            dp[idx] = memo(idx+jump,nums,dp);
-            if(dp[idx]){return dp[idx];}
+        for(int i=n-2 ; i>=0 ; i--){
+            for(int j=nums[i]; j>0; j--){
+                if(i+j>n-1){continue;}
+                dp[i] = dp[i+j];
+                if(dp[i]){break;}
+            }
         }
-        return dp[idx];
+        
+        return dp[0];
     }
 };
