@@ -1,12 +1,13 @@
 class Solution {
 public:
     int numSquares(int n) {
-        vector<int> dp(n+1,INT_MAX);
-        dp[0]=0;
-        for(int i=1 ; i<=n ; i++){
-            for(int j=1 ; j*j<=i ; j++){
-                dp[i] = min(dp[i],1+dp[i-j*j]);
+        static vector<int> dp({0});
+        while(dp.size()<=n){
+            int x=dp.size(), curr=INT_MAX;
+            for(int i=1 ; i*i<=x ; i++){
+                curr = min(curr,1+dp[x-i*i]);
             }
+            dp.push_back(curr);
         }
         return dp[n];
     }
