@@ -1,18 +1,13 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
-        int n=nums.size();
+        int mnJumps=0, curr=0, far=0;
         
-        vector<long long> dp(n,INT_MAX);
-        dp[n-1]=0;
-        
-        for(int i=n-2 ; i>=0 ; i--){
-            for(int j=nums[i] ; j>0 ; j--){
-                if(i+j>n-1){continue;}
-                dp[i] = min(dp[i],1+dp[i+j]);
-            }
+        for(int i=0 ; i<nums.size()-1 ; i++){
+            far = max(far,i+nums[i]);
+            if(i==curr){mnJumps++; curr=far;}
         }
         
-        return dp[0];
+        return mnJumps;
     }
 };
