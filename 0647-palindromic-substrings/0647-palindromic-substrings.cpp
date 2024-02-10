@@ -3,17 +3,19 @@ public:
     int countSubstrings(string s) {
         int res=0, n=s.size();
         vector<vector<int>> dp(n,vector<int>(n,0));
-        for(int l=0 ; l<n ; l++){
+        for(int l=n-1 ; l>=0 ; l--){
             for(int r=l ; r<n ; r++){
-                res += memo(s,l,r,dp);
+                if(l==r){
+                    dp[l][r]=1;
+                } else if(l+1==r){
+                    dp[l][r] = s[l]==s[r] ? 1 : 0;
+                } else {
+                    dp[l][r] = s[l]==s[r] ? dp[l+1][r-1] : 0;
+                }
+                
+                res += dp[l][r];
             }
         }
         return res;
-    }
-    int memo(string&s,int l,int r,vector<vector<int>>&dp){
-        if(l>=r){return 1;}
-        if(dp[l][r]){return dp[l][r];}
-        
-        return dp[l][r] = s[l]==s[r] ? memo(s,l+1,r-1,dp) : 0;
     }
 };
