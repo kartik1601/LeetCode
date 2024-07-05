@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartik1601/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0238-product-of-array-except-self](https://github.com/kartik1601/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0407-trapping-rain-water-ii](https://github.com/kartik1601/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/kartik1601/LeetCode/tree/master/0414-third-maximum-number) |
 ## Sorting
 |  |
@@ -47,4 +48,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartik1601/LeetCode/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/kartik1601/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/kartik1601/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/kartik1601/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
