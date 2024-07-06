@@ -1,58 +1,26 @@
 class Solution {
 public:
-    int numberOfAlternatingGroups(vector<int>& c, int k) {
-        int ans=0, n=c.size(), i=0 , curr=0;
-        while(i<n-1){
-            if(c[i]!=c[i+1]){
-                if(curr==0){
-                    curr=2;
-                }
-                else{
-                    curr++;
-                }
-                if(curr==k){
-                    ans++;
-                    curr--;
-                }
-            }
-            else{
-                curr=0;
-            }
-            i++;
-        }
-        if(c[0]!=c[n-1]){
-            if(curr==0){
-                curr=2;
-            }
-            else{
-                curr++;
-            }
-            if(curr==k){
-                ans++;
-                curr--;
-            }
-        }
-        else{
-            return ans;
+    int numberOfAlternatingGroups(vector<int>& cl, int k) {
+        int n = cl.size();
+        vector<int> c;
+        for(int i=0 ; i<n+k-1 ; i++){
+            c.push_back(cl[i%n]);
         }
 
-        for(int j=0;j<k-2;j++){
-            if(c[j]!=c[j+1]){
-                if(curr==0){
-                    curr=2;
-                }
-                else{
-                    curr++;
-                }
-                if(curr==k){
-                    ans++;
-                    curr--;
-                }
+        int currWindow=1, cnt=0;
+
+        for(int i=0 ; i<n+k-2 ; i++){
+            if(c[i]==c[i+1]){
+                currWindow = 1;
+            } else {
+                currWindow++;
             }
-            else{
-                break;
+            if(currWindow==k){
+                cnt++;
+                currWindow--;
             }
         }
-        return ans;
+
+        return cnt;
     }
 };
