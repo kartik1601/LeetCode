@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartik1601/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/kartik1601/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/kartik1601/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kartik1601/LeetCode/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/kartik1601/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartik1601/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/kartik1601/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1659-get-the-maximum-score](https://github.com/kartik1601/LeetCode/tree/master/1659-get-the-maximum-score) |
 ## Stack
 |  |
