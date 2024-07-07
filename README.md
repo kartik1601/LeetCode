@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kartik1601/LeetCode/tree/master/0268-missing-number) |
+| [1642-water-bottles](https://github.com/kartik1601/LeetCode/tree/master/1642-water-bottles) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/kartik1601/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Binary Search
 |  |
@@ -88,5 +89,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/kartik1601/LeetCode/tree/master/1642-water-bottles) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/kartik1601/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 <!---LeetCode Topics End-->
