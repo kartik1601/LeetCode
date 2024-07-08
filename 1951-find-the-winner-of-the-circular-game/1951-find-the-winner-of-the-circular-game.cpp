@@ -1,15 +1,11 @@
 class Solution {
 public:
     int findTheWinner(int n, int k) {
-        vector<int> f(n);
-        for(int i=0 ; i<n ; i++){f[i]=i+1;}
+        return rec(n,k) + 1;
+    }
+    int rec(int n, int k){
+        if(n==1){return 0;}
 
-        int curr=0;
-        while(f.size()>1){
-            int loser = (curr+k-1)%f.size();
-            f.erase(f.begin() + loser);
-            curr = loser;
-        }
-        return f[0];
+        return (rec(n-1,k)+k)%n;
     }
 };
