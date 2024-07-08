@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik1601/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/kartik1601/LeetCode/tree/master/0022-generate-parentheses) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/kartik1601/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 ## Sliding Window
 |  |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kartik1601/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartik1601/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/kartik1601/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1659-get-the-maximum-score](https://github.com/kartik1601/LeetCode/tree/master/1659-get-the-maximum-score) |
@@ -102,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kartik1601/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kartik1601/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
