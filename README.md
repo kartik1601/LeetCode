@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik1601/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kartik1601/LeetCode/tree/master/0041-first-missing-positive) |
+| [0138-copy-list-with-random-pointer](https://github.com/kartik1601/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0268-missing-number](https://github.com/kartik1601/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -115,4 +116,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kartik1601/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/kartik1601/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
