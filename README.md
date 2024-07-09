@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/kartik1601/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/kartik1601/LeetCode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/kartik1601/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0954-maximum-sum-circular-subarray](https://github.com/kartik1601/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1659-get-the-maximum-score](https://github.com/kartik1601/LeetCode/tree/master/1659-get-the-maximum-score) |
 | [1803-average-waiting-time](https://github.com/kartik1601/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kartik1601/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/kartik1601/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartik1601/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/kartik1601/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/kartik1601/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1659-get-the-maximum-score](https://github.com/kartik1601/LeetCode/tree/master/1659-get-the-maximum-score) |
 ## Stack
 |  |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/kartik1601/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kartik1601/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kartik1601/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/kartik1601/LeetCode/tree/master/0169-majority-element) |
+| [0954-maximum-sum-circular-subarray](https://github.com/kartik1601/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -150,4 +154,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/kartik1601/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kartik1601/LeetCode/tree/master/0229-majority-element-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/kartik1601/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
