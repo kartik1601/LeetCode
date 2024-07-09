@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/kartik1601/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/kartik1601/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kartik1601/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kartik1601/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kartik1601/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kartik1601/LeetCode/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/kartik1601/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kartik1601/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kartik1601/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kartik1601/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/kartik1601/LeetCode/tree/master/0414-third-maximum-number) |
 ## Prefix Sum
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/kartik1601/LeetCode/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/kartik1601/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/kartik1601/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kartik1601/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kartik1601/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -143,4 +146,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kartik1601/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kartik1601/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
