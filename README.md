@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/kartik1601/LeetCode/tree/master/0022-generate-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik1601/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/kartik1601/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1720-crawler-log-folder](https://github.com/kartik1601/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Sliding Window
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/kartik1601/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kartik1601/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1659-get-the-maximum-score](https://github.com/kartik1601/LeetCode/tree/master/1659-get-the-maximum-score) |
+| [1720-crawler-log-folder](https://github.com/kartik1601/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/kartik1601/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kartik1601/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sorting
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartik1601/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kartik1601/LeetCode/tree/master/0143-reorder-list) |
+| [1720-crawler-log-folder](https://github.com/kartik1601/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
