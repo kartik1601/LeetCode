@@ -7,7 +7,7 @@ public:
             if(log=="../"){
                 if(op>0){op--;}
             } else if (log=="./"){
-                op = op;
+                // op = op;
             } else {
                 op++;
             }
