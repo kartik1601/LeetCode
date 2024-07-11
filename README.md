@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik1601/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/kartik1601/LeetCode/tree/master/0022-generate-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik1601/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kartik1601/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/kartik1601/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1720-crawler-log-folder](https://github.com/kartik1601/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Sliding Window
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartik1601/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kartik1601/LeetCode/tree/master/0143-reorder-list) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kartik1601/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kartik1601/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
