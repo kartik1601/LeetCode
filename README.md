@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartik1601/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0407-trapping-rain-water-ii](https://github.com/kartik1601/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/kartik1601/LeetCode/tree/master/0414-third-maximum-number) |
+| [0493-reverse-pairs](https://github.com/kartik1601/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/kartik1601/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kartik1601/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1659-get-the-maximum-score](https://github.com/kartik1601/LeetCode/tree/master/1659-get-the-maximum-score) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/kartik1601/LeetCode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartik1601/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/kartik1601/LeetCode/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,12 +157,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/kartik1601/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/kartik1601/LeetCode/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartik1601/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/kartik1601/LeetCode/tree/master/0493-reverse-pairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kartik1601/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kartik1601/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartik1601/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/kartik1601/LeetCode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -175,12 +179,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartik1601/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/kartik1601/LeetCode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartik1601/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/kartik1601/LeetCode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartik1601/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/kartik1601/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
