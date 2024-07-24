@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/kartik1601/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/kartik1601/LeetCode/tree/master/0399-evaluate-division) |
 ## Union Find
 |  |
@@ -206,9 +207,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/kartik1601/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/kartik1601/LeetCode/tree/master/0399-evaluate-division) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/kartik1601/LeetCode/tree/master/0399-evaluate-division) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/kartik1601/LeetCode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
