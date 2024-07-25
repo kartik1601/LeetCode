@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/kartik1601/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/kartik1601/LeetCode/tree/master/0399-evaluate-division) |
+| [1300-critical-connections-in-a-network](https://github.com/kartik1601/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 ## Union Find
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/kartik1601/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/kartik1601/LeetCode/tree/master/0399-evaluate-division) |
+| [1300-critical-connections-in-a-network](https://github.com/kartik1601/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 ## Shortest Path
 |  |
 | ------- |
@@ -234,4 +236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/kartik1601/LeetCode/tree/master/0948-sort-an-array) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/kartik1601/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
