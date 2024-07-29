@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/kartik1601/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kartik1601/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1333-sort-the-jumbled-numbers](https://github.com/kartik1601/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1511-count-number-of-teams](https://github.com/kartik1601/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1659-get-the-maximum-score](https://github.com/kartik1601/LeetCode/tree/master/1659-get-the-maximum-score) |
 | [1720-crawler-log-folder](https://github.com/kartik1601/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/kartik1601/LeetCode/tree/master/1803-average-waiting-time) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/kartik1601/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kartik1601/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kartik1601/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/kartik1601/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1659-get-the-maximum-score](https://github.com/kartik1601/LeetCode/tree/master/1659-get-the-maximum-score) |
 ## Stack
 |  |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kartik1601/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/kartik1601/LeetCode/tree/master/0493-reverse-pairs) |
+| [1511-count-number-of-teams](https://github.com/kartik1601/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
