@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/kartik1601/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kartik1601/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1333-sort-the-jumbled-numbers](https://github.com/kartik1601/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/kartik1601/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1511-count-number-of-teams](https://github.com/kartik1601/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1659-get-the-maximum-score](https://github.com/kartik1601/LeetCode/tree/master/1659-get-the-maximum-score) |
 | [1720-crawler-log-folder](https://github.com/kartik1601/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/kartik1601/LeetCode/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/kartik1601/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/kartik1601/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/kartik1601/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/kartik1601/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik1601/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/kartik1601/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/kartik1601/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0399-evaluate-division](https://github.com/kartik1601/LeetCode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/kartik1601/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/kartik1601/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -220,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/kartik1601/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/kartik1601/LeetCode/tree/master/0399-evaluate-division) |
 | [1300-critical-connections-in-a-network](https://github.com/kartik1601/LeetCode/tree/master/1300-critical-connections-in-a-network) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/kartik1601/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kartik1601/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
