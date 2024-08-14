@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/kartik1601/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/kartik1601/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kartik1601/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/kartik1601/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1333-sort-the-jumbled-numbers](https://github.com/kartik1601/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/kartik1601/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1511-count-number-of-teams](https://github.com/kartik1601/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/kartik1601/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1659-get-the-maximum-score](https://github.com/kartik1601/LeetCode/tree/master/1659-get-the-maximum-score) |
 ## Simulation
 |  |
