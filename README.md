@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kartik1601/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/kartik1601/LeetCode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/kartik1601/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0770-couples-holding-hands](https://github.com/kartik1601/LeetCode/tree/master/0770-couples-holding-hands) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/kartik1601/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Heap (Priority Queue)
 |  |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/kartik1601/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0770-couples-holding-hands](https://github.com/kartik1601/LeetCode/tree/master/0770-couples-holding-hands) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kartik1601/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1659-get-the-maximum-score](https://github.com/kartik1601/LeetCode/tree/master/1659-get-the-maximum-score) |
 ## Simulation
@@ -242,16 +244,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/kartik1601/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/kartik1601/LeetCode/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/kartik1601/LeetCode/tree/master/0399-evaluate-division) |
+| [0770-couples-holding-hands](https://github.com/kartik1601/LeetCode/tree/master/0770-couples-holding-hands) |
 | [1300-critical-connections-in-a-network](https://github.com/kartik1601/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 ## Union Find
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/kartik1601/LeetCode/tree/master/0399-evaluate-division) |
+| [0770-couples-holding-hands](https://github.com/kartik1601/LeetCode/tree/master/0770-couples-holding-hands) |
 ## Graph
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/kartik1601/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/kartik1601/LeetCode/tree/master/0399-evaluate-division) |
+| [0770-couples-holding-hands](https://github.com/kartik1601/LeetCode/tree/master/0770-couples-holding-hands) |
 | [1300-critical-connections-in-a-network](https://github.com/kartik1601/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/kartik1601/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kartik1601/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
