@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/kartik1601/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/kartik1601/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kartik1601/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0128-longest-consecutive-sequence](https://github.com/kartik1601/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/kartik1601/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kartik1601/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kartik1601/LeetCode/tree/master/0229-majority-element-ii) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik1601/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kartik1601/LeetCode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/kartik1601/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/kartik1601/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/kartik1601/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kartik1601/LeetCode/tree/master/0229-majority-element-ii) |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kartik1601/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/kartik1601/LeetCode/tree/master/0399-evaluate-division) |
 | [0770-couples-holding-hands](https://github.com/kartik1601/LeetCode/tree/master/0770-couples-holding-hands) |
 ## Graph
