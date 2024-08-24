@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kartik1601/LeetCode/tree/master/0029-divide-two-integers) |
 | [0264-ugly-number-ii](https://github.com/kartik1601/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/kartik1601/LeetCode/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/kartik1601/LeetCode/tree/master/1642-water-bottles) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kartik1601/LeetCode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/kartik1601/LeetCode/tree/master/0268-missing-number) |
 ## Greedy
 |  |
