@@ -1,21 +1,36 @@
 class Solution {
+    using pii = pair<int,int>;
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        vector<int> ans;
+        int n = (int)nums.size();
         unordered_map<int,int> freq;
-        for(int num : nums){
-            freq[num]++;
+        // n
+        for(int idx=0; idx<n ; idx++){
+            freq[nums[idx]]++;
         }
+
+        vector<int> res;
+        priority_queue<pii,vector<pii>,greater<pii>> minHeap;
         
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
-        for(auto &p : freq){
-            int num=p.first , times=p.second;
-            pq.push({times,num});
-            if(pq.size()>k) {pq.pop();}
+        // m * log(k) : m = no of unique elements
+        for(auto p : freq){
+            int num = p.first;
+            int cnt = p.second;
+            // log(k)
+            if(minHeap.size()<k){
+                minHeap.push({cnt,num});
+            } else if(minHeap.top().first < cnt) {
+                minHeap.pop();
+                minHeap.push({cnt,num});
+            }
         }
-        
-        while(!pq.empty())  {auto it = pq.top(); pq.pop(); ans.push_back(it.second);}
-        
-        return ans;
+
+        // k * log(k)
+        while(!minHeap.empty()){
+            pair<int,int> p = minHeap.top(); minHeap.pop(); // log(k)
+            res.push_back(p.second);
+        }
+
+        return res;
     }
 };
