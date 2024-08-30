@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kartik1601/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/kartik1601/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/kartik1601/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kartik1601/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/kartik1601/LeetCode/tree/master/0041-first-missing-positive) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik1601/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/kartik1601/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/kartik1601/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kartik1601/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kartik1601/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kartik1601/LeetCode/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/kartik1601/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 ## Math
 |  |
