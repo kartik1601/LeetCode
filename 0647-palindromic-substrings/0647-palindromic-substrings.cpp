@@ -1,22 +1,20 @@
 class Solution {
 public:
     int countSubstrings(string s) {
-        int res=0, n=s.size();
-        
-        for(int l=0 ; l<n ; l++){
-            // even length string + odd length string
-            res += solve(l,l,s) + solve(l,l+1,s);
+        int n = (int)s.size();
+        vector<vector<int>> dp(n,vector<int>(n,0));
+        int res = 0;
+
+        for(int i=n-1 ; i>=0 ; i--){
+            for(int j=i ; j<n ; j++){
+                if(i==j){dp[i][j] = 1;}
+                else if(i+1==j){dp[i][j] = (s[i]==s[j]) ? 1 : 0;}
+                else {dp[i][j] = (s[i]==s[j]) ? dp[i+1][j-1] : 0;}
+
+                if(dp[i][j]){res++;}
+            }
         }
-            
-        return res;
-    }
-    int solve(int l, int r, string&s){
-        int res=0;
-        while(l>=0 && r<=s.size()-1){
-            if(s[l]==s[r]){res++;}
-            else{break;}
-            l--; r++;
-        }
+
         return res;
     }
 };
