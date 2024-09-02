@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/kartik1601/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/kartik1601/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kartik1601/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kartik1601/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kartik1601/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/kartik1601/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kartik1601/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0475-heaters](https://github.com/kartik1601/LeetCode/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/kartik1601/LeetCode/tree/master/0493-reverse-pairs) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/kartik1601/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kartik1601/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/kartik1601/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/kartik1601/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kartik1601/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kartik1601/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/kartik1601/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Recursion
 |  |
