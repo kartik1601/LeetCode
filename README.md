@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/kartik1601/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kartik1601/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/kartik1601/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kartik1601/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/kartik1601/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Sliding Window
 |  |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kartik1601/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/kartik1601/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kartik1601/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kartik1601/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
 |  |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/kartik1601/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/kartik1601/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/kartik1601/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kartik1601/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kartik1601/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -184,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/kartik1601/LeetCode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/kartik1601/LeetCode/tree/master/0268-missing-number) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kartik1601/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Greedy
 |  |
 | ------- |
