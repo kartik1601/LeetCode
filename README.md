@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/kartik1601/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/kartik1601/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/kartik1601/LeetCode/tree/master/0143-reorder-list) |
+| [0838-design-linked-list](https://github.com/kartik1601/LeetCode/tree/master/0838-design-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kartik1601/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kartik1601/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/kartik1601/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0838-design-linked-list](https://github.com/kartik1601/LeetCode/tree/master/0838-design-linked-list) |
 ## Tree
 |  |
 | ------- |
